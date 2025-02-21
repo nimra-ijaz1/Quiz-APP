@@ -1,4 +1,4 @@
-# Quiz-APP
+
 Splash Screen: A visually appealing splash screen greets the user when the app is launched.
 User Authentication: Users can create a new account, sign up, and log in to track their quiz history, scores, and progress over time.
 Multiple-choice Questions: A large collection of questions from different categories (such as science, history, and technology) are available for users to test their knowledge.
